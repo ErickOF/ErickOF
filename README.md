@@ -27,6 +27,8 @@
   <img align="left" alt="Erick's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/myanimelist.svg" />
 </a>
 
+</br>
+
 ## **English 🇺🇸 🇬🇧**
 
 Hi! My name is Erick, I'm Computer Engineering student from Costa Rica 🇨🇷.
@@ -38,7 +40,6 @@ I'm interested in Embedded Systems, Machine Learning and Data Science stuff. You
   <img src="https://github-readme-stats.vercel.app/api?username=ErickOF&&show_icons=true&theme=algolia&bg_color=DEG,000000,151515,101015&icon_color=155085&title_color=155099&count_private=true">
 </details>
 
----
 
 ## **Español 🇲🇽**
 <details>
@@ -46,19 +47,15 @@ I'm interested in Embedded Systems, Machine Learning and Data Science stuff. You
   <img src="https://github-readme-stats.vercel.app/api?username=ErickOF&&show_icons=true&theme=algolia&bg_color=DEG,000000,151515,101015&icon_color=155085&title_color=155099&locale=es&count_private=true">
 </details>
 
----
 
 ## **Français 🇫🇷**
-
 <details>
   <summary>:zap: Statistiques GitHub</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=ErickOF&&show_icons=true&theme=algolia&bg_color=DEG,000000,151515,101015&icon_color=155085&title_color=155099&locale=fr&count_private=true">
 </details>
 
----
 
 ## **Deutsche 🇩🇪**
-
 <details>
   <summary>:zap: GitHub Statistiken</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=ErickOF&&show_icons=true&theme=algolia&bg_color=DEG,000000,151515,101015&icon_color=155085&title_color=155099&locale=de&count_private=true">
@@ -89,7 +86,6 @@ Here are some ideas to get you started:
 
 -->
 
----
 
 ## **📕 Latest Blog Posts**
 
