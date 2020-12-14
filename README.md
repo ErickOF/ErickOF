@@ -130,14 +130,11 @@ I'm interested in Embedded Systems, Machine Learning and Data Science stuff. You
 ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=Unity)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickOF&hide=C%23,BitBake,Shell&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ErickOF)](https://github.com/anuraghazra/github-readme-stats)
-
 <br><br>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickOF&hide=C%23,BitBake,Shell&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@ErickOF" />
   <img src="https://github-profile-trophy.vercel.app/?username=ErickOF&column=7&theme=onedark" />
 </div>
 <!--
