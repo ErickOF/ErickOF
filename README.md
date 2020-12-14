@@ -38,10 +38,9 @@
 <a href="https://www.hackerrank.com/erickobregonf">
   <img align="left" alt="Erick's HackerRank" width="22px" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" />
 </a>
-
-
-
-
+<a href="https://profile.codersrank.io/user/erickof">
+  <img align="left" alt="Erick's CoderRanks" width="22px" src="https://user-images.githubusercontent.com/3371601/72540690-d32c8d80-3846-11ea-9690-c0ed6c479309.png" />
+</a>
 
 </br>
 
