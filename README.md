@@ -26,6 +26,22 @@
 <a href="https://myanimelist.net/profile/ErickOF/">
   <img align="left" alt="Erick's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/myanimelist.svg" />
 </a>
+<a href="https://t.me/ErickOF">
+  <img align="left" alt="Erick's Telegram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111646.svg" />
+</a>
+<a href="https://www.chess.com/member/erickobregonfonseca">
+  <img align="left" alt="Erick's Chess.com" width="22px" src="https://www.chess.com/bundles/web/images/brand/chesscom_pawn.8c9d0cf5.png" />
+</a>
+<a href="https://lichess.org/@/ErickOF">
+  <img align="left" alt="Erick's Chess.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lichess_Logo.svg/45px-Lichess_Logo.svg.png" />
+</a>
+<a href="https://www.hackerrank.com/erickobregonf">
+  <img align="left" alt="Erick's HackerRank" width="22px" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" />
+</a>
+
+
+
+
 
 </br>
 
@@ -60,8 +76,6 @@ I'm interested in Embedded Systems, Machine Learning and Data Science stuff. You
   <summary>:zap: GitHub Statistiken</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=ErickOF&&show_icons=true&theme=algolia&bg_color=DEG,000000,151515,101015&icon_color=155085&title_color=155099&locale=de&count_private=true">
 </details>
-
----
 
 ## **Skills**
 
