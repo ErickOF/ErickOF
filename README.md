@@ -1,5 +1,8 @@
-# **¡Pura Vida! Hi! Coucou ! Hallo!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h2 align="center"><br>¡Pura Vida! Hi! Coucou ! Hallo!</br><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+
 ---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ErickOF&label=Profile%20views&color=0e75b6&style=flat%22" alt="xtenzq" /> </p>
 
 <a href="https://github.com/kittinan/spotify-github-profile" target="blank">
   <img align="right"
