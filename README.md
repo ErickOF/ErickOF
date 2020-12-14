@@ -1,13 +1,30 @@
 <h2 align="center"><br>¡Pura Vida! Hi! Coucou ! Hallo!</br><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
----
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ErickOF&label=Profile%20views&color=0e75b6&style=flat%22" alt="xtenzq" /> </p>
-
 <a href="https://github.com/kittinan/spotify-github-profile" target="blank">
   <img align="right"
     src="https://spotify-github-profile.vercel.app/api/view?uid=erickof18&cover_image=true&theme=default"
     alt="spotify" />
+</a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ErickOF&label=Profile%20views&color=0e75b6&style=flat%22" alt="xtenzq"/></p>
+
+<a href="https://erickof.medium.com/">
+  <img align="left" alt="Erick's Medium" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/medium.svg" />
+</a>
+<a href="https://twitter.com/ErickAndrsObre1/">
+  <img align="left" alt="Erick Obregón Fonseca | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/erickobregonf/">
+  <img align="left" alt="Erick's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/erickof18/">
+  <img align="left" alt="Erick's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+<a href="https://www.reddit.com/user/geekyabhi/">
+  <img align="left" alt="Erick's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
+</a>
+<a href="https://myanimelist.net/profile/ErickOF/">
+  <img align="left" alt="Erick's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/myanimelist.svg" />
 </a>
 
 ## **English 🇺🇸 🇬🇧**
@@ -72,33 +89,9 @@ Here are some ideas to get you started:
 
 -->
 
-## **Others**
-
-### **Connect with me:**
-<a href="https://erickof.medium.com/">
-  <img align="left" alt="Erick's Medium" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/medium.svg" />
-</a>
-<a href="https://twitter.com/ErickAndrsObre1/">
-  <img align="left" alt="Erick Obregón Fonseca | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/erickobregonf/">
-  <img align="left" alt="Erick's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/erickof18/">
-  <img align="left" alt="Erick's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-<a href="https://www.reddit.com/user/geekyabhi/">
-  <img align="left" alt="Erick's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
-</a>
-<a href="https://myanimelist.net/profile/ErickOF/">
-  <img align="left" alt="Erick's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/myanimelist.svg" />
-</a>
-
-</br>
-
 ---
 
-### **📕 Latest Blog Posts**
+## **📕 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
 - [Yocto Project Tutorial: Baking a Minimal Linux Image from Scratch](https://erickof.medium.com/yocto-project-tutorial-baking-a-minimal-linux-image-from-scratch-625b3e65f768)
