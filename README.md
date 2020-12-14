@@ -49,7 +49,7 @@ I'm interested in Embedded Systems, Machine Learning and Data Science stuff. You
 
 
 ## **Hobbies**
-### Spotify Playing 🎧
+### **Spotify Playing 🎧**
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=erickof18&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 ## **Others**
 
-### Connect with me:
+### **Connect with me:**
 <a href="https://erickof.medium.com/">
   <img align="left" alt="Erick's Medium" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/medium.svg" />
 </a>
@@ -92,9 +92,11 @@ Here are some ideas to get you started:
   <img align="left" alt="Erick's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/myanimelist.svg" />
 </a>
 
+</br>
+
 ---
 
-### 📕 Latest Blog Posts
+### **📕 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
 - [Yocto Project Tutorial: Baking a Minimal Linux Image from Scratch](https://erickof.medium.com/yocto-project-tutorial-baking-a-minimal-linux-image-from-scratch-625b3e65f768)
