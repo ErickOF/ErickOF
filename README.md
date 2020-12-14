@@ -130,7 +130,7 @@ I'm interested in Embedded Systems, Machine Learning and Data Science stuff. You
 ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=Unity)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma)
 
-<br><br>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickOF&hide=C%23,BitBake,Shell&langs_count=10" />
@@ -138,7 +138,7 @@ I'm interested in Embedded Systems, Machine Learning and Data Science stuff. You
   <img src="https://github-profile-trophy.vercel.app/?username=ErickOF&column=7&theme=onedark" />
 </div>
 
-<br><br>
+<br>
 
 <!--
 ![img](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ErickOF)
