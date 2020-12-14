@@ -11,8 +11,8 @@
 <a href="https://erickof.medium.com/">
   <img align="left" alt="Erick's Medium" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/medium.svg" />
 </a>
-<a href="https://twitter.com/ErickAndrsObre1/">
-  <img align="left" alt="Erick Obregón Fonseca | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/ErickOF23">
+  <img align="left" alt="ErickOF23 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/erickobregonf/">
   <img align="left" alt="Erick's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
