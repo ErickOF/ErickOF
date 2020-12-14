@@ -50,6 +50,11 @@ Hi! My name is Erick, I'm Computer Engineering student from Costa Rica 🇨🇷.
 
 I'm interested in Embedded Systems, Machine Learning and Data Science stuff. You can see my skills in [coderanks.io](https://profile.codersrank.io/user/erickof) or [Linkedin](https://www.linkedin.com/in/erickobregonf/).
 
+### **About myself:**
+* I love to learn about anything (physics, maths, chemistry, astronomy, biology, culture, history, languages, sports, art, music, and so on) 😊
+* I'm trying to write my own [blog](erickof.medium.com) about Computer Engineering stuff, and maybe artificial intelligence in the future, but there's a lot of work to do...
+* My native language is Spanish, but I'm learning English and French (German... German is in stand by or something like that 😂).
+
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=ErickOF&&show_icons=true&theme=algolia&bg_color=DEG,000000,151515,101015&icon_color=155085&title_color=155099&count_private=true">
@@ -57,6 +62,16 @@ I'm interested in Embedded Systems, Machine Learning and Data Science stuff. You
 
 
 ## **Español 🇲🇽**
+
+¡Pura Vida! Mi nombre es Erick, soy un estudiante de Ingeniería en Computadors de Costa Rica 🇨🇷.
+
+Me interesa el mundo de los Sistemas Embebidos, el Aprendizaje Automático y la Ciencia de los Datos. Puede ver un poco más acerca de mis conocimientos en [coderanks.io](https://profile.codersrank.io/user/erickof) o en [Linkedin](https://www.linkedin.com/in/erickobregonf/).
+
+### **Sobre mí:**
+* Me gusta aprender sobre cualquier tema (física, matemáticas, química, astronomías, biología, cultura, historia, idiomas, deportes, arte, música, entre otros) 😊
+* Estoy tratando de escribir mi propio [blog](erickof.medium.com) sobre cosas relacionadas con la Ingeniería en Computadores y tal vez Inteligencia Artificial en el futuro, pero hay mucho trabajo por hacer...
+* Mi idioma es el Español, pero actualmente estoy aprendiendo Inglés y Francés (Alemán... Alemán está como en pausa o algo así por el estilo 😂).
+
 <details>
   <summary>:zap: Estadísticas de GitHub</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=ErickOF&&show_icons=true&theme=algolia&bg_color=DEG,000000,151515,101015&icon_color=155085&title_color=155099&locale=es&count_private=true">
@@ -76,7 +91,7 @@ I'm interested in Embedded Systems, Machine Learning and Data Science stuff. You
   <img src="https://github-readme-stats.vercel.app/api?username=ErickOF&&show_icons=true&theme=algolia&bg_color=DEG,000000,151515,101015&icon_color=155085&title_color=155099&locale=de&count_private=true">
 </details>
 
-## **Skills**
+## **Technology**
 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=Ubuntu)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
@@ -131,6 +146,8 @@ I'm interested in Embedded Systems, Machine Learning and Data Science stuff. You
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma)
 
 <br>
+
+## **Skills**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickOF&hide=C%23,BitBake,Shell&langs_count=10" />
