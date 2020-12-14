@@ -1,6 +1,11 @@
 # **¡Pura Vida! Hi! Coucou ! Hallo!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
 ---
+
+<a href="https://github.com/kittinan/spotify-github-profile" target="blank">
+  <img align="right"
+    src="https://spotify-github-profile.vercel.app/api/view?uid=erickof18&cover_image=true&theme=default"
+    alt="spotify" />
+</a>
 
 ## **English 🇺🇸 🇬🇧**
 
@@ -46,12 +51,6 @@ I'm interested in Embedded Systems, Machine Learning and Data Science stuff. You
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickOF&hide=C%23,BitBake,Shell&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ErickOF)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## **Hobbies**
-### **Spotify Playing 🎧**
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=erickof18&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
 ![img](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ErickOF)
