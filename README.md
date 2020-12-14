@@ -137,6 +137,9 @@ I'm interested in Embedded Systems, Machine Learning and Data Science stuff. You
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@ErickOF" />
   <img src="https://github-profile-trophy.vercel.app/?username=ErickOF&column=7&theme=onedark" />
 </div>
+
+<br><br>
+
 <!--
 ![img](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ErickOF)
 **ErickOF/ErickOF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
