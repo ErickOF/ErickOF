@@ -52,7 +52,7 @@ I'm interested in Embedded Systems, Machine Learning and Data Science stuff. You
 
 ### **About myself:**
 * I love to learn about anything (physics, maths, chemistry, astronomy, biology, culture, history, languages, sports, art, music, and so on) 😊
-* I'm trying to write my own [blog](erickof.medium.com) about Computer Engineering stuff, and maybe artificial intelligence in the future, but there's a lot of work to do...
+* I'm trying to write my own [blog](https://erickof.medium.com/) about Computer Engineering stuff, and maybe artificial intelligence in the future, but there's a lot of work to do...
 * My native language is Spanish, but I'm learning English and French (German... German is in stand by or something like that 😂).
 
 <details>
@@ -69,7 +69,7 @@ Me interesa el mundo de los Sistemas Embebidos, el Aprendizaje Automático y la 
 
 ### **Sobre mí:**
 * Me gusta aprender sobre cualquier tema (física, matemáticas, química, astronomías, biología, cultura, historia, idiomas, deportes, arte, música, entre otros) 😊
-* Estoy tratando de escribir mi propio [blog](erickof.medium.com) sobre cosas relacionadas con la Ingeniería en Computadores y tal vez Inteligencia Artificial en el futuro, pero hay mucho trabajo por hacer...
+* Estoy tratando de escribir mi propio [blog](https://erickof.medium.com/) sobre cosas relacionadas con la Ingeniería en Computadores y tal vez Inteligencia Artificial en el futuro, pero hay mucho trabajo por hacer...
 * Mi idioma es el Español, pero actualmente estoy aprendiendo Inglés y Francés (Alemán... Alemán está como en pausa o algo así por el estilo 😂).
 
 <details>
