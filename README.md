@@ -101,7 +101,7 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
 
 ### **Über mich**
 * Ich liebe es, etwas zu lernen (Physik, Mathematik, Chemie, Astronomie, Biologie, Kultur, Geschichte, Sprachen, Sport, Kunst, Musik und so weiter) 😊
-* Ich versuche, meinen eigenen [Blog](https://erickof.medium.com/) über Computertechnik zu schreiben, und vielleicht künstliche Intelligenz in der Zukunft, aber es gibt viel zu tun ...
+* Ich versuche, meinen eigenen [Blog](https://erickof.medium.com/) über Computer Engineering zu schreiben, und vielleicht künstliche Intelligenz in der Zukunft, aber es gibt viel zu tun ...
 * Meine Sprache ist Spanisch, aber ich lerne Englisch und Französisch (Deutsch ... Deutsch steht bereit oder etwas ähnliches 😂).
 
 <details>
