@@ -95,14 +95,15 @@ Je suis interessé par les Systèmes Embarques, l'Apprentissage Automatique et l
 
 
 ## **Deutsche 🇩🇪**
-Hallo! Mein Name ist Erick, ich bin ein Student der Computer Engineering aus Costa Rica.
+Hallo! Mein Name ist Erick, ich bin ein Student und studiere Computer Engineering in Costa Rica.
 
-Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwissenschaft. Sie können mehr von meinen Fähigkeiten in (https://profile.codersrank.io/user/erickof) oder [Linkedin](https://www.linkedin.com/in/erickobregonf/) sehen.
+Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwissenschaft. Sie können mehr von meinen Fähigkeiten auf (https://profile.codersrank.io/user/erickof) oder [Linkedin](https://www.linkedin.com/in/erickobregonf/) sehen.
 
 ### **Über mich**
 * Ich liebe es, etwas zu lernen (Physik, Mathematik, Chemie, Astronomie, Biologie, Kultur, Geschichte, Sprachen, Sport, Kunst, Musik und so weiter) 😊
-* Ich versuche, meinen eigenen [Blog](https://erickof.medium.com/) über Computer Engineering zu schreiben, und vielleicht künstliche Intelligenz in der Zukunft, aber es gibt viel zu tun ...
-* Meine Sprache ist Spanisch, aber ich lerne Englisch und Französisch (Deutsch ... Deutsch steht bereit oder etwas ähnliches 😂).
+* Ich versuche, meinen eigenen [Blog](https://erickof.medium.com/) über Computer Engineering zu schreiben, und vielleicht künstliche Intelligenz in der Zukunft, aber es gibt viel zu tun...
+* Meine Muttersprache ist Spanisch, aber ich lerne Englisch und Französisch (Deutsch ... Deutsch steht bereit oder etwas ähnliches 😂).
+
 
 <details>
   <summary>:zap: GitHub Statistiken</summary>
