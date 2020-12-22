@@ -95,6 +95,15 @@ Je suis interessé par les Systèmes Embarques, l'Apprentissage Automatique et l
 
 
 ## **Deutsche 🇩🇪**
+Hallo! Mein Name ist Erick, ich bin ein Student der Computer Engineering aus Costa Rica.
+
+Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwissenschaft. Sie können mehr von meinen Fähigkeiten in (https://profile.codersrank.io/user/erickof) oder [Linkedin](https://www.linkedin.com/in/erickobregonf/) sehen.
+
+### **Über mich**
+* Ich liebe es, etwas zu lernen (Physik, Mathematik, Chemie, Astronomie, Biologie, Kultur, Geschichte, Sprachen, Sport, Kunst, Musik und so weiter) 😊
+* Ich versuche, meinen eigenen [Blog](https://erickof.medium.com/) über Computertechnik zu schreiben, und vielleicht künstliche Intelligenz in der Zukunft, aber es gibt viel zu tun ...
+* Meine Sprache ist Spanisch, aber ich lerne Englisch und Französisch (Deutsch ... Deutsch steht bereit oder etwas ähnliches 😂).
+
 <details>
   <summary>:zap: GitHub Statistiken</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=ErickOF&&show_icons=true&theme=algolia&bg_color=DEG,000000,151515,101015&icon_color=155085&title_color=155099&locale=de&count_private=true">
