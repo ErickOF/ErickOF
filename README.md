@@ -48,7 +48,7 @@
 
 Hi! My name is Erick, I'm Computer Engineering student from Costa Rica 🇨🇷.
 
-I'm interested in Embedded Systems, Machine Learning and Data Science stuff. You can see my skills in [coderanks.io](https://profile.codersrank.io/user/erickof) or [Linkedin](https://www.linkedin.com/in/erickobregonf/).
+I'm interested in Embedded Systems, Machine Learning and Data Science stuff. You can see more of my skills in [coderanks.io](https://profile.codersrank.io/user/erickof) or [Linkedin](https://www.linkedin.com/in/erickobregonf/).
 
 ### **About myself:**
 * I love to learn about anything (physics, maths, chemistry, astronomy, biology, culture, history, languages, sports, art, music, and so on) 😊
@@ -63,7 +63,7 @@ I'm interested in Embedded Systems, Machine Learning and Data Science stuff. You
 
 ## **Español 🇨🇷**
 
-¡Pura Vida! Mi nombre es Erick, soy un estudiante de Ingeniería en Computadors de Costa Rica 🇨🇷.
+¡Pura Vida! Mi nombre es Erick, soy un estudiante de Ingeniería en Computadores de Costa Rica 🇨🇷.
 
 Me interesa el mundo de los Sistemas Embebidos, el Aprendizaje Automático y la Ciencia de los Datos. Puede ver un poco más acerca de mis conocimientos en [coderanks.io](https://profile.codersrank.io/user/erickof) o en [Linkedin](https://www.linkedin.com/in/erickobregonf/).
 
