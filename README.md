@@ -83,7 +83,7 @@ Coucou ! Je m'appelle Erick, je suis un étudiant en ingénierie informatique du
 
 Je suis interessé par les Systèmes Embarques, l'Apprentissage Automatique et la Science des Données. Vous pouvez voir plus de mes compétences sur [coderanks.io](https://profile.codersrank.io/user/erickof) ou [Linkedin](https://www.linkedin.com/in/erickobregonf/).
 
-### **Sobre mí:**
+### **Sur moí:**
 * J'aime apprendre n'importe quel sujet (physique, mathématiques, chimie, astronomie, biologie, culture, histoire, langues, sports, art, musique, entre autres) 😊
 * J'essaye d'écrire mon propre [blog](https://erickof.medium.com/) sur des choses liées à l'ingénierie informatique et peut-être à l'Intelligence Artificielle à l'avenir, mais il y a beaucoup de travail à faire ...
 * Ma langue est l'espagnol, mais j'apprends actuellement l'Anglais et le Français (l'Allemand ... l'Allemand est en pause ou quelque chose comme ça 😂).
