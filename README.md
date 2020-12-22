@@ -69,7 +69,7 @@ Me interesa el mundo de los Sistemas Embebidos, el Aprendizaje Automático y la 
 
 ### **Sobre mí:**
 * Me gusta aprender sobre cualquier tema (física, matemáticas, química, astronomía, biología, cultura, historia, idiomas, deportes, arte, música, entre otros) 😊
-* Estoy tratando de escribir mi propio [blog](https://erickof.medium.com/) sobre cosas relacionadas con la Ingeniería en Computadores y tal vez Inteligencia Artificial en el futuro, pero hay mucho trabajo por hacer...
+* Estoy tratando de escribir mi propio [blog](https://erickof.medium.com/) sobre cosas relacionadas con Ingeniería en Computadores y tal vez Inteligencia Artificial en el futuro, pero hay mucho trabajo por hacer...
 * Mi idioma es el Español, pero actualmente estoy aprendiendo Inglés y Francés (Alemán... Alemán está como en pausa o algo así por el estilo 😂).
 
 <details>
