@@ -85,8 +85,8 @@ Je suis interessé par les Systèmes Embarques, l'Apprentissage Automatique et l
 
 ### **Sur moi:**
 * J'aime apprendre n'importe quel sujet (physique, mathématiques, chimie, astronomie, biologie, culture, histoire, langues, sports, art, musique, entre autres) 😊
-* J'essaye d'écrire mon propre [blog](https://erickof.medium.com/) sur des choses liées à l'ingénierie informatique et peut-être à l'Intelligence Artificielle à l'avenir, mais il y a beaucoup de travail à faire ...
-* Ma langue est l'espagnol, mais j'apprends actuellement l'Anglais et le Français (l'Allemand ... l'Allemand est en pause ou quelque chose comme ça 😂).
+* J'essaye d'écrire mon propre [blog](https://erickof.medium.com/) sur des choses liées à l'Ingénierie Informatique et peut-être à l'Intelligence Artificielle à l'avenir, mais il y a beaucoup de travail à faire ...
+* Ma langue est l'Espagnol, mais j'apprends actuellement l'Anglais et le Français (l'Allemand ... l'Allemand est en pause ou quelque chose comme ça 😂).
 
 <details>
   <summary>:zap: Statistiques GitHub</summary>
