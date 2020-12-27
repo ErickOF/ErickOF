@@ -245,7 +245,8 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
 
 ## **📕 Latest Blog Posts**
 
-<!-- BLOG-POST-LIST:START -->
 - [Yocto Project Tutorial: Baking a Minimal Linux Image from Scratch](https://erickof.medium.com/yocto-project-tutorial-baking-a-minimal-linux-image-from-scratch-625b3e65f768)
 - [Tutoriel Yocto Project: Baking une image Linux minimale à partir de zéro](https://erickof.medium.com/tutoriel-yocto-project-baking-une-image-linux-minimale-%C3%A0-partir-de-z%C3%A9ro-c43955d670b)
-<!-- BLOG-POST-LIST:END -->
+
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
