@@ -140,8 +140,6 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![JSON](https://img.shields.io/badge/-JSON-black?style=flat-square&logo=JSON)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=Postman)
-![Java](https://img.shields.io/badge/-java-brown?style=flat-square&logo=java)
-![Octave](https://img.shields.io/badge/-Octave-black?style=flat-square&logo=Octave)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
@@ -180,7 +178,7 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
     <td>Python</td>
     <td>Programming Language</td>
     <td>
-      <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python Logo" width="70">
+      <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python Logo" width="80">
     </td>
     <td>Advanced</td>
   </tr>
@@ -197,7 +195,7 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
     <td>JavaScript</td>
     <td>Programming Language</td>
     <td>
-      <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript Logo" width="70">
+      <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript Logo" width="90">
     </td>
     <td>Intermediate</td>
   </tr>
@@ -205,9 +203,25 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
     <td>TypeScript</td>
     <td>Programming Language</td>
     <td>
-      <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" alt="TypeScript Logo" width="70">
+      <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" alt="TypeScript Logo" width="90">
     </td>
     <td>Intermediate</td>
+  </tr>
+  <tr style="width:100%">
+    <td>Java</td>
+    <td>Programming Language</td>
+    <td>
+      <img src="https://img.shields.io/badge/-java-brown?style=flat-square&logo=java" alt="Java Logo" width="70">
+    </td>
+    <td>Beginner-Intermediate</td>
+  </tr>
+  <tr style="width:100%">
+    <td>Octave</td>
+    <td>Programming Language</td>
+    <td>
+      <img src="https://img.shields.io/badge/-Octave-black?style=flat-square&logo=Octave" alt="Octave Logo" width="75">
+    </td>
+    <td>Beginner</td>
   </tr>
 </tbody>
 </table>
