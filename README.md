@@ -105,7 +105,7 @@ Je suis interessé par les Systèmes Embarques, l'Apprentissage Automatique et l
 ## **Deutsche :de:**
 Hallo! Mein Name ist Erick, ich bin ein Student und studiere Computer Engineering in Costa Rica.
 
-Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwissenschaft. Sie können mehr von meinen Fähigkeiten auf (https://profile.codersrank.io/user/erickof) oder [Linkedin](https://www.linkedin.com/in/erickobregonf/) sehen.
+Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwissenschaft. Sie können mehr von meinen Fähigkeiten auf [coderanks.io](https://profile.codersrank.io/user/erickof) oder [Linkedin](https://www.linkedin.com/in/erickobregonf/) sehen.
 
 ### **Über mich**
 * Ich liebe es, etwas zu lernen (Physik, Mathematik, Chemie, Astronomie, Biologie, Kultur, Geschichte, Sprachen, Sport, Kunst, Musik und so weiter) 😊
@@ -257,4 +257,3 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
 <!-- DEVTO:START -->
 - [Yocto Project Tutorial: Baking a Minimal Linux Image from Scratch](https://dev.to/erickof/yocto-project-tutorial-baking-a-minimal-linux-image-from-scratch-5ei2)
 <!-- DEVTO:END -->
-
