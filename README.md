@@ -235,6 +235,8 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
 
 ## **Skills**
 
+More stats [here](https://profile-summary-for-github.com/user/ErickOF).
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickOF&hide=C%23,BitBake,Shell&langs_count=10" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@ErickOF" />
