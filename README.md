@@ -125,7 +125,6 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
 ![GitKraken](https://img.shields.io/badge/-GitKraken-181717?style=flat-square&logo=GitKraken)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino)
-![Anaconda](https://img.shields.io/badge/-Anaconda-black?style=flat-square&logo=Anaconda)
 ![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebooks-black?style=flat-square&logo=Jupyter)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=PyTorch)
@@ -160,7 +159,6 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
 ![Blender](https://img.shields.io/badge/-Blender-black?style=flat-square&logo=Blender)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C%20Sharp)
 ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=Unity)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma)
 
 <br>
 
