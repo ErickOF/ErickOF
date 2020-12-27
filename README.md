@@ -255,5 +255,6 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
 
 ### **DEV.TO**
 <!-- DEVTO:START -->
+- [Yocto Project Tutorial: Baking a Minimal Linux Image from Scratch](https://dev.to/erickof/yocto-project-tutorial-baking-a-minimal-linux-image-from-scratch-5ei2)
 <!-- DEVTO:END -->
 
