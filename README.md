@@ -13,6 +13,9 @@
 <a href="https://erickof.medium.com/">
   <img align="left" alt="Erick's Medium" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/medium.svg" />
 </a>
+<a href="https://dev.to/erickof">
+  <img align="left" alt="Erick's DevTo" width="22px" src="https://cdn.worldvectorlogo.com/logos/devto.svg" />
+</a>
 <a href="https://twitter.com/ErickOF23">
   <img align="left" alt="ErickOF23 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
