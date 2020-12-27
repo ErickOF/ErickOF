@@ -166,48 +166,48 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
 
 <br>
 
-<table align="center">
-<thead>
-  <tr>
-    <th class="col-md-4">Name</th>
-    <th class="col-md-4">Description</th>
-    <th class="col-md-4">Image</th>
-    <th class="col-md-4">Level</th>
+<table align="center" style="width:100%">
+<thead style="width:100%">
+  <tr style="width:100%">
+    <th>Name</th>
+    <th>Description</th>
+    <th>Image</th>
+    <th>Level</th>
   </tr>
 </thead>
-<tbody align="center">
-  <tr>
-    <td class="col-md-4">Python</td>
-    <td class="col-md-4">Programming Language</td>
-    <td class="col-md-4">
+<tbody align="center" style="width:100%">
+  <tr style="width:100%">
+    <td>Python</td>
+    <td>Programming Language</td>
+    <td>
       <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python Logo" width="70">
     </td>
-    <td class="col-md-4">Advanced</td>
+    <td>Advanced</td>
   </tr>
-  <tr>
-    <td class="col-md-4">C/C++</td>
-    <td class="col-md-4">Programming Language</td>
-    <td class="col-md-4">
+  <tr style="width:100%">
+    <td>C/C++</td>
+    <td>Programming Language</td>
+    <td>
       <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c" alt="C Logo" width="40">
       <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B" alt="C++ Logo" width="60">
     </td>
-    <td class="col-md-4">Intermediate-Advanced</td>
+    <td>Intermediate-Advanced</td>
   </tr>
-  <tr>
-    <td class="col-md-4">JavaScript</td>
-    <td class="col-md-4">Programming Language</td>
-    <td class="col-md-4">
+  <tr style="width:100%">
+    <td>JavaScript</td>
+    <td>Programming Language</td>
+    <td>
       <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript Logo" width="70">
     </td>
-    <td class="col-md-4">Intermediate</td>
+    <td>Intermediate</td>
   </tr>
-  <tr>
-    <td class="col-md-4">TypeScript</td>
-    <td class="col-md-4">Programming Language</td>
-    <td class="col-md-4">
+  <tr style="width:100%">
+    <td>TypeScript</td>
+    <td>Programming Language</td>
+    <td>
       <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" alt="TypeScript Logo" width="70">
     </td>
-    <td class="col-md-4">Intermediate</td>
+    <td>Intermediate</td>
   </tr>
 </tbody>
 </table>
