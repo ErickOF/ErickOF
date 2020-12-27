@@ -174,8 +174,8 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickOF&hide=C%23,BitBake,Shell&langs_count=10" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@ErickOF" />
   <img src="https://github-profile-trophy.vercel.app/?username=ErickOF&column=7&theme=onedark" />
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erickof&skills=Assembly,C,C%2B%2B,Go,Jupyter%20Notebook,Makefile,Perl,Python,Ruby,Shell" alt="" border=0 height=520 width=520 />
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erickof&skills=CSS,HTML,JavaScript,JSON,PHP,TypeScript,SCSS" alt="" border=0 height=520 width=520 />
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erickof&skills=Assembly,C,C%2B%2B,Go,Jupyter%20Notebook,Makefile,Perl,Python,Ruby,Shell" alt="" border=0 height=500 width=500 />
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erickof&skills=CSS,HTML,JavaScript,JSON,PHP,TypeScript,SCSS" alt="" border=0 height=500 width=500 />
   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erickof" />
 </div>
 
