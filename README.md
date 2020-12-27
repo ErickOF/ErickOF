@@ -19,6 +19,9 @@
 <a href="https://www.linkedin.com/in/erickobregonf/">
   <img align="left" alt="Erick's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://gitlab.com/ErickOF">
+  <img align="left" alt="Erick's GitLab" width="22px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />
+</a>
 <a href="https://open.spotify.com/user/erickof18/">
   <img align="left" alt="Erick's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
