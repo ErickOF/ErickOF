@@ -132,8 +132,6 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
 ![Qt](https://img.shields.io/badge/-Qt-black?style=flat-square&logo=Qt)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
@@ -172,7 +170,7 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
 <thead>
   <tr>
     <th class="col-md-4">Name</th>
-    <th class="col-md-4">Type</th>
+    <th class="col-md-4">Description</th>
     <th class="col-md-4">Image</th>
     <th class="col-md-4">Level</th>
   </tr>
@@ -182,7 +180,7 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
     <td class="col-md-4">Python</td>
     <td class="col-md-4">Programming Language</td>
     <td class="col-md-4">
-      <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python Logo" width="60">
+      <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python Logo" width="70">
     </td>
     <td class="col-md-4">Advanced</td>
   </tr>
@@ -194,6 +192,22 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
       <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B" alt="C++ Logo" width="60">
     </td>
     <td class="col-md-4">Intermediate-Advanced</td>
+  </tr>
+  <tr>
+    <td class="col-md-4">JavaScript</td>
+    <td class="col-md-4">Programming Language</td>
+    <td class="col-md-4">
+      <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript Logo" width="70">
+    </td>
+    <td class="col-md-4">Intermediate</td>
+  </tr>
+  <tr>
+    <td class="col-md-4">TypeScript</td>
+    <td class="col-md-4">Programming Language</td>
+    <td class="col-md-4">
+      <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" alt="TypeScript Logo" width="70">
+    </td>
+    <td class="col-md-4">Intermediate</td>
   </tr>
 </tbody>
 </table>
