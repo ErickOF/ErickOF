@@ -125,15 +125,12 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
 ![GitKraken](https://img.shields.io/badge/-GitKraken-181717?style=flat-square&logo=GitKraken)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-black?style=flat-square&logo=Anaconda)
 ![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebooks-black?style=flat-square&logo=Jupyter)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=PyTorch)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![Qt](https://img.shields.io/badge/-Qt-black?style=flat-square&logo=Qt)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -168,6 +165,41 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C%20Sharp)
 ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=Unity)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma)
+
+<br>
+
+<table align="center">
+<thead>
+  <tr>
+    <th class="col-md-4">Name</th>
+    <th class="col-md-4">Type</th>
+    <th class="col-md-4">Image</th>
+    <th class="col-md-4">Level</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="col-md-4">Python</td>
+    <td class="col-md-4">Programming Language</td>
+    <td class="col-md-4">
+      <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python Logo" width="60">
+    </td>
+    <td class="col-md-4">Advanced</td>
+  </tr>
+  <tr>
+    <td class="col-md-4">C/C++</td>
+    <td class="col-md-4">Programming Language</td>
+    <td class="col-md-4">
+      <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c" alt="C Logo" width="40">
+      <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B" alt="C++ Logo" width="60">
+    </td>
+    <td class="col-md-4">Intermediate-Advanced</td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+* **Note:** Advanced level does not mean that I know everything about the technology but that I can manage well using it.
 
 <br>
 
