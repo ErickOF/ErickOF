@@ -177,7 +177,7 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
     <th class="col-md-4">Level</th>
   </tr>
 </thead>
-<tbody>
+<tbody align="center">
   <tr>
     <td class="col-md-4">Python</td>
     <td class="col-md-4">Programming Language</td>
@@ -199,6 +199,7 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
 </table>
 
 <br>
+
 * **Note:** Advanced level does not mean that I know everything about the technology but that I can manage well using it.
 
 <br>
