@@ -247,6 +247,8 @@ More stats [here](https://profile-summary-for-github.com/user/ErickOF).
   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erickof" border=0 width=500 />
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## **📕 Latest Blog Posts**
 ### **Medium**
