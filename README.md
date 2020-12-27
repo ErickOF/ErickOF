@@ -52,7 +52,7 @@
 
 </br>
 
-## **English 🇺🇸 🇬🇧**
+## **English :us: :uk:**
 
 Hi! My name is Erick, I'm Computer Engineering student from Costa Rica 🇨🇷.
 
@@ -60,7 +60,7 @@ I'm interested in Embedded Systems, Machine Learning and Data Science stuff. You
 
 ### **About myself:**
 * I love to learn about anything (physics, maths, chemistry, astronomy, biology, culture, history, languages, sports, art, music, and so on) 😊
-* I'm trying to write my own [blog](https://erickof.medium.com/) about Computer Engineering stuff, and maybe artificial intelligence in the future, but there's a lot of work to do...
+* I'm trying to write my own blogs in [Medium](https://erickof.medium.com/) and [DEV](https://dev.to/erickof) about Computer Engineering stuff, and maybe artificial intelligence in the future, but there's a lot of work to do...
 * My native language is Spanish, but I'm learning English and French (German... German is in stand by or something like that 😂).
 
 <details>
@@ -69,15 +69,15 @@ I'm interested in Embedded Systems, Machine Learning and Data Science stuff. You
 </details>
 
 
-## **Español 🇨🇷**
+## **Español :costa_rica:**
 
-¡Pura Vida! Mi nombre es Erick, soy un estudiante de Ingeniería en Computadores de Costa Rica 🇨🇷.
+¡Pura Vida! Mi nombre es Erick, soy un estudiante de Ingeniería en Computadores de Costa Rica :costa_rica:.
 
 Me interesa el mundo de los Sistemas Embebidos, el Aprendizaje Automático y la Ciencia de los Datos. Puede ver un poco más acerca de mis conocimientos en [coderanks.io](https://profile.codersrank.io/user/erickof) o en [Linkedin](https://www.linkedin.com/in/erickobregonf/).
 
 ### **Sobre mí:**
 * Me gusta aprender sobre cualquier tema (física, matemáticas, química, astronomía, biología, cultura, historia, idiomas, deportes, arte, música, entre otros) 😊
-* Estoy tratando de escribir mi propio [blog](https://erickof.medium.com/) sobre cosas relacionadas con Ingeniería en Computadores y tal vez Inteligencia Artificial en el futuro, pero hay mucho trabajo por hacer...
+* Estoy tratando de escribir mis propios blogs en [Medium](https://erickof.medium.com/) y [DEV](https://dev.to/erickof) sobre cosas relacionadas con Ingeniería en Computadores y tal vez Inteligencia Artificial en el futuro, pero hay mucho trabajo por hacer...
 * Mi idioma es el Español, pero actualmente estoy aprendiendo Inglés y Francés (Alemán... Alemán está como en pausa o algo así por el estilo 😂).
 
 <details>
@@ -86,14 +86,14 @@ Me interesa el mundo de los Sistemas Embebidos, el Aprendizaje Automático y la 
 </details>
 
 
-## **Français 🇫🇷**
+## **Français :fr:**
 Coucou ! Je m'appelle Erick, je suis un étudiant en Ingénierie Informatique du Costa Rica.
 
 Je suis interessé par les Systèmes Embarques, l'Apprentissage Automatique et la Science des Données. Vous pouvez voir plus de mes compétences sur [coderanks.io](https://profile.codersrank.io/user/erickof) ou [Linkedin](https://www.linkedin.com/in/erickobregonf/).
 
 ### **Sur moi:**
 * J'aime apprendre n'importe quel sujet (physique, mathématiques, chimie, astronomie, biologie, culture, histoire, langues, sports, art, musique, entre autres) 😊
-* J'essaye d'écrire mon propre [blog](https://erickof.medium.com/) sur des choses liées à l'Ingénierie Informatique et peut-être à l'Intelligence Artificielle à l'avenir, mais il y a beaucoup de travail à faire ...
+* J'essaye d'écrire mes propres blogs sur [Medium](https://erickof.medium.com/) et [DEV](https://dev.to/erickof) sur des choses liées à l'Ingénierie Informatique et peut-être à l'Intelligence Artificielle à l'avenir, mais il y a beaucoup de travail à faire ...
 * Ma langue est l'Espagnol, mais j'apprends actuellement l'Anglais et le Français (l'Allemand ... l'Allemand est en pause ou quelque chose comme ça 😂).
 
 <details>
@@ -102,14 +102,14 @@ Je suis interessé par les Systèmes Embarques, l'Apprentissage Automatique et l
 </details>
 
 
-## **Deutsche 🇩🇪**
+## **Deutsche :de:**
 Hallo! Mein Name ist Erick, ich bin ein Student und studiere Computer Engineering in Costa Rica.
 
 Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwissenschaft. Sie können mehr von meinen Fähigkeiten auf (https://profile.codersrank.io/user/erickof) oder [Linkedin](https://www.linkedin.com/in/erickobregonf/) sehen.
 
 ### **Über mich**
 * Ich liebe es, etwas zu lernen (Physik, Mathematik, Chemie, Astronomie, Biologie, Kultur, Geschichte, Sprachen, Sport, Kunst, Musik und so weiter) 😊
-* Ich versuche, meinen eigenen [Blog](https://erickof.medium.com/) über Computer Engineering zu schreiben, und vielleicht künstliche Intelligenz in der Zukunft, aber es gibt viel zu tun...
+* Ich versuche, meine eigenen Blogs in [Medium](https://erickof.medium.com/) und [DEV](https://dev.to/erickof) über Computer Engineering zu schreiben, und vielleicht künstliche Intelligenz in der Zukunft, aber es gibt viel zu tun...
 * Meine Muttersprache ist Spanisch, aber ich lerne Englisch und Französisch (Deutsch ... Deutsch steht bereit oder etwas ähnliches 😂).
 
 
