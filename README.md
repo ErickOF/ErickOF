@@ -6,7 +6,9 @@
     alt="spotify" />
 </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ErickOF&label=Profile%20views&color=0e75b6&style=flat%22" alt="xtenzq"/></p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ErickOF&label=Profile%20views&color=0e75b6&style=flat%22" alt="xtenzq"/>
+</p>
 
 <a href="https://erickof.medium.com/">
   <img align="left" alt="Erick's Medium" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/medium.svg" />
@@ -172,25 +174,28 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickOF&hide=C%23,BitBake,Shell&langs_count=10" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@ErickOF" />
   <img src="https://github-profile-trophy.vercel.app/?username=ErickOF&column=7&theme=onedark" />
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erickof&skills=Assembly,C,C%2B%2B,Go,Jupyter%20Notebook,Makefile,Perl,Python,Ruby,Shell" />
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erickof&skills=CSS,HTML,JavaScript,JSON,PHP,TypeScript,SCSS" />
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erickof" />
 </div>
 
-<br>
-
-<!--
-![img](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ErickOF)
-**ErickOF/ErickOF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div style="display: inline-block;">
+        <h2>Good</h2>
+        <pre><code class="language-c">int foo (void) 
+{
+    int i;
+}
+</code></pre>
+    </div>
+    <div style="display: inline-block;">
+        <h2>Bad</h2>
+        <pre><code class="language-c">int foo (void) {
+    int i;
+}
+</code></pre>
+    </div>
+</div>
 
 
 ## **📕 Latest Blog Posts**
