@@ -174,27 +174,9 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickOF&hide=C%23,BitBake,Shell&langs_count=10" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@ErickOF" />
   <img src="https://github-profile-trophy.vercel.app/?username=ErickOF&column=7&theme=onedark" />
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erickof&skills=Assembly,C,C%2B%2B,Go,Jupyter%20Notebook,Makefile,Perl,Python,Ruby,Shell" />
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erickof&skills=CSS,HTML,JavaScript,JSON,PHP,TypeScript,SCSS" />
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erickof&skills=Assembly,C,C%2B%2B,Go,Jupyter%20Notebook,Makefile,Perl,Python,Ruby,Shell" alt="" border=0 height=480 width=480 />
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erickof&skills=CSS,HTML,JavaScript,JSON,PHP,TypeScript,SCSS" alt="" border=0 height=480 width=480 />
   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erickof" />
-</div>
-
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-    <div style="display: inline-block;">
-        <h2>Good</h2>
-        <pre><code class="language-c">int foo (void) 
-{
-    int i;
-}
-</code></pre>
-    </div>
-    <div style="display: inline-block;">
-        <h2>Bad</h2>
-        <pre><code class="language-c">int foo (void) {
-    int i;
-}
-</code></pre>
-    </div>
 </div>
 
 
