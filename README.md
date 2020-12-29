@@ -259,5 +259,6 @@ More stats [here](https://profile-summary-for-github.com/user/ErickOF).
 
 ### **DEV.TO**
 <!-- DEVTO:START -->
+- [AI+Microcontrollers: A practical example with Arduino](https://dev.to/erickof/ai-microcontrollers-a-practical-example-with-arduino-4oa8)
 - [Yocto Project Tutorial: Baking a Minimal Linux Image from Scratch](https://dev.to/erickof/yocto-project-tutorial-baking-a-minimal-linux-image-from-scratch-5ei2)
 <!-- DEVTO:END -->
