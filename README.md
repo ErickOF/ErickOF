@@ -241,6 +241,8 @@ More stats [here](https://profile-summary-for-github.com/user/ErickOF).
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickOF&hide=C%23,BitBake,Shell&langs_count=10" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@ErickOF" />
   <img src="https://github-profile-trophy.vercel.app/?username=ErickOF&column=7&theme=onedark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErickOF&" alt="ErickOF"/>
+
   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erickof&skills=Assembly,C,C%2B%2B,Go,Jupyter%20Notebook,Makefile,Matlab,Perl,Python,Ruby,Shell" border=0 width=500 />
   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erickof&skills=CSS,HTML,JavaScript,JSON,PHP,TypeScript,SCSS" border=0 width=500 />
   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erickof&skills=Batchfile,C%23,CoffeScript,Java,Kivy,Kotlin" border=0 width=500  />
