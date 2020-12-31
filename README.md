@@ -149,18 +149,18 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
 
 
 ## **Learning**
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby)
-![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
-![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust)
-![Perl](https://img.shields.io/badge/-Perl-39457E?style=flat-square&logo=Perl)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras)
 ![Scikitlearn](https://img.shields.io/badge/-scikitlearn-black?style=flat-square&logo=scikit%2dlearn)
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=CMake)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS)
 ![NextJS](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js)
+
+
+## **List to Learn**
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust)
+![Perl](https://img.shields.io/badge/-Perl-39457E?style=flat-square&logo=Perl)
 ![Blender](https://img.shields.io/badge/-Blender-black?style=flat-square&logo=Blender)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C%20Sharp)
 ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=Unity)
 
 <br>
@@ -223,6 +223,30 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
       <img src="https://img.shields.io/badge/-Octave-black?style=flat-square&logo=Octave" alt="Octave Logo" width="75">
     </td>
     <td>Beginner</td>
+  </tr>
+  <tr style="width:100%">
+    <td>Go</td>
+    <td>Programming Language</td>
+    <td>
+      <img src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go" alt="Go Logo" width="75">
+    </td>
+    <td>Learning-Beginner</td>
+  </tr>
+  <tr style="width:100%">
+    <td>Ruby</td>
+    <td>Programming Language</td>
+    <td>
+      <img src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby" alt="Ruby Logo" width="75">
+    </td>
+    <td>Learning</td>
+  </tr>
+  <tr style="width:100%">
+    <td>C#</td>
+    <td>Programming Language</td>
+    <td>
+      <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C%20Sharp" alt="C# Logo" width="75">
+    </td>
+    <td>Learning</td>
   </tr>
 </tbody>
 </table>
