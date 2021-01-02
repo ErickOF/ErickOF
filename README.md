@@ -129,18 +129,8 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino)
 ![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebooks-black?style=flat-square&logo=Jupyter)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy)
-![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=PyTorch)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
 ![Qt](https://img.shields.io/badge/-Qt-black?style=flat-square&logo=Qt)
-![Angular](https://img.shields.io/badge/-Angular-E23237?style=flat-square&logo=Angular)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![JSON](https://img.shields.io/badge/-JSON-black?style=flat-square&logo=JSON)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=Postman)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=Latex)
 
 
@@ -273,6 +263,62 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
     <td>Front-end Framework</td>
     <td>
       <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" alt="Bootstrap Logo" width="75">
+    </td>
+    <td>Intermediate</td>
+  </tr>
+  <tr style="width:100%">
+    <td>Angular</td>
+    <td>Web Framework</td>
+    <td>
+      <img src="https://img.shields.io/badge/-Angular-E23237?style=flat-square&logo=Angular" alt="Angular Logo" width="75">
+    </td>
+    <td>Intermediate</td>
+  </tr>
+  <tr style="width:100%">
+    <td>MySQL</td>
+    <td>Relational Database</td>
+    <td>
+      <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" alt="MySQL Logo" width="75">
+    </td>
+    <td>Intermediate</td>
+  </tr>
+  <tr style="width:100%">
+    <td>MongoDB</td>
+    <td>Document-Oriented Database</td>
+    <td>
+      <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" alt="MongoDB Logo" width="75">
+    </td>
+    <td>Beginner-Intermediate</td>
+  </tr>
+  <tr style="width:100%">
+    <td>NumPy</td>
+    <td>Library for Python</td>
+    <td>
+      <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy" alt="NumPy Logo" width="75">
+    </td>
+    <td>Intermediate</td>
+  </tr>
+  <tr style="width:100%">
+    <td>PyTorch</td>
+    <td>ML Library for Python</td>
+    <td>
+      <img src="https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=PyTorch" alt="PyTorch Logo" width="75">
+    </td>
+    <td>Beginner-Intermediate</td>
+  </tr>
+  <tr style="width:100%">
+    <td>Pandas</td>
+    <td>Data Manipulation and Analysis Library for Python</td>
+    <td>
+      <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas" alt="Pandas Logo" width="75">
+    </td>
+    <td>Beginner-Intermediate</td>
+  </tr>
+  <tr style="width:100%">
+    <td>Flask</td>
+    <td>Micro Web Framework for Python</td>
+    <td>
+      <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask" alt="Flask Logo" width="75">
     </td>
     <td>Intermediate</td>
   </tr>
