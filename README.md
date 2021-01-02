@@ -134,8 +134,6 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
 ![Qt](https://img.shields.io/badge/-Qt-black?style=flat-square&logo=Qt)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
 ![Angular](https://img.shields.io/badge/-Angular-E23237?style=flat-square&logo=Angular)
@@ -247,6 +245,22 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
       <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C%20Sharp" alt="C# Logo" width="75">
     </td>
     <td>Learning</td>
+  </tr>
+  <tr style="width:100%">
+    <td>HTML</td>
+    <td>Markup Language</td>
+    <td>
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML Logo" width="75">
+    </td>
+    <td>Intermediate</td>
+  </tr>
+  <tr style="width:100%">
+    <td>CSS</td>
+    <td>Style Sheet Language</td>
+    <td>
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3 Logo" width="75">
+    </td>
+    <td>Intermediate</td>
   </tr>
 </tbody>
 </table>
