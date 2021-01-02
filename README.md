@@ -134,8 +134,6 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
 ![Qt](https://img.shields.io/badge/-Qt-black?style=flat-square&logo=Qt)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
 ![Angular](https://img.shields.io/badge/-Angular-E23237?style=flat-square&logo=Angular)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![JSON](https://img.shields.io/badge/-JSON-black?style=flat-square&logo=JSON)
@@ -259,6 +257,22 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
     <td>Style Sheet Language</td>
     <td>
       <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3 Logo" width="75">
+    </td>
+    <td>Beginner</td>
+  </tr>
+  <tr style="width:100%">
+    <td>SASS</td>
+    <td>CSS Extension Language</td>
+    <td>
+      <img src="https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass" alt="SASS Logo" width="75">
+    </td>
+    <td>Beginner</td>
+  </tr>
+  <tr style="width:100%">
+    <td>Bootstrap</td>
+    <td>Front-end Framework</td>
+    <td>
+      <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" alt="Bootstrap Logo" width="75">
     </td>
     <td>Intermediate</td>
   </tr>
