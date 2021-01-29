@@ -11,7 +11,7 @@
 </p>
 
 <a href="https://erickof.medium.com/">
-  <img align="left" alt="Erick's Medium" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/medium.svg" />
+  <img align="left" alt="Erick's Medium" width="22px" src="https://cdn.worldvectorlogo.com/logos/medium-1.svg" />
 </a>
 <a href="https://dev.to/erickof">
   <img align="left" alt="Erick's DevTo" width="22px" src="https://cdn.worldvectorlogo.com/logos/devto.svg" />
