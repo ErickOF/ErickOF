@@ -70,7 +70,8 @@ I'm interested in Embedded Systems, Machine Learning and Data Science stuff. You
 
 
 ## **Español :costa_rica:**
-
+<details>
+<summary>Leer en español</summary>
 ¡Pura Vida! Mi nombre es Erick, soy un estudiante de Ingeniería en Computadores de Costa Rica :costa_rica:.
 
 Me interesa el mundo de los Sistemas Embebidos, el Aprendizaje Automático y la Ciencia de los Datos. Puede ver un poco más acerca de mis conocimientos en [coderanks.io](https://profile.codersrank.io/user/erickof) o en [Linkedin](https://www.linkedin.com/in/erickobregonf/).
@@ -83,6 +84,7 @@ Me interesa el mundo de los Sistemas Embebidos, el Aprendizaje Automático y la 
 <details>
   <summary>:zap: Estadísticas de GitHub</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=ErickOF&&show_icons=true&theme=algolia&bg_color=DEG,000000,151515,101015&icon_color=155085&title_color=155099&locale=es&count_private=true">
+</details>
 </details>
 
 
