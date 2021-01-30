@@ -71,7 +71,7 @@ I'm interested in Embedded Systems, Machine Learning and Data Science stuff. You
 
 ## **Español :costa_rica:**
 <details>
-<summary>Leer en español</summary>
+<summary>:costa_rica: Leer</summary>
 ¡Pura Vida! Mi nombre es Erick, soy un estudiante de Ingeniería en Computadores de Costa Rica :costa_rica:.
 
 Me interesa el mundo de los Sistemas Embebidos, el Aprendizaje Automático y la Ciencia de los Datos. Puede ver un poco más acerca de mis conocimientos en [coderanks.io](https://profile.codersrank.io/user/erickof) o en [Linkedin](https://www.linkedin.com/in/erickobregonf/).
@@ -81,14 +81,16 @@ Me interesa el mundo de los Sistemas Embebidos, el Aprendizaje Automático y la 
 * Estoy tratando de escribir mis propios blogs en [Medium](https://erickof.medium.com/) y [DEV](https://dev.to/erickof) sobre cosas relacionadas con Ingeniería en Computadores y tal vez Inteligencia Artificial en el futuro, pero hay mucho trabajo por hacer...
 * Mi idioma es el Español, pero actualmente estoy aprendiendo Inglés y Francés (Alemán... Alemán está como en pausa o algo así por el estilo 😂).
 
-<details>
-  <summary>:zap: Estadísticas de GitHub</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=ErickOF&&show_icons=true&theme=algolia&bg_color=DEG,000000,151515,101015&icon_color=155085&title_color=155099&locale=es&count_private=true">
-</details>
+  <details>
+    <summary>:zap: Estadísticas de GitHub</summary>
+    <img src="https://github-readme-stats.vercel.app/api?username=ErickOF&&show_icons=true&theme=algolia&bg_color=DEG,000000,151515,101015&icon_color=155085&title_color=155099&locale=es&count_private=true">
+  </details>
 </details>
 
 
 ## **Français :fr:**
+<details>
+<summary>:fr: Lire</summary>
 Coucou ! Je m'appelle Erick, je suis un étudiant en Ingénierie Informatique du Costa Rica.
 
 Je suis interessé par les Systèmes Embarques, l'Apprentissage Automatique et la Science des Données. Vous pouvez voir plus de mes compétences sur [coderanks.io](https://profile.codersrank.io/user/erickof) ou [Linkedin](https://www.linkedin.com/in/erickobregonf/).
@@ -98,13 +100,16 @@ Je suis interessé par les Systèmes Embarques, l'Apprentissage Automatique et l
 * J'essaye d'écrire mes propres blogs sur [Medium](https://erickof.medium.com/) et [DEV](https://dev.to/erickof) sur des choses liées à l'Ingénierie Informatique et peut-être à l'Intelligence Artificielle à l'avenir, mais il y a beaucoup de travail à faire ...
 * Ma langue est l'Espagnol, mais j'apprends actuellement l'Anglais et le Français (l'Allemand ... l'Allemand est en pause ou quelque chose comme ça 😂).
 
+  <details>
+    <summary>:zap: Statistiques GitHub</summary>
+    <img src="https://github-readme-stats.vercel.app/api?username=ErickOF&&show_icons=true&theme=algolia&bg_color=DEG,000000,151515,101015&icon_color=155085&title_color=155099&locale=fr&count_private=true">
+  </details>
 <details>
-  <summary>:zap: Statistiques GitHub</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=ErickOF&&show_icons=true&theme=algolia&bg_color=DEG,000000,151515,101015&icon_color=155085&title_color=155099&locale=fr&count_private=true">
-</details>
 
 
 ## **Deutsche :de:**
+<details>
+<summary>:de: Lesen</summary>
 Hallo! Mein Name ist Erick, ich bin ein Student und studiere Computer Engineering in Costa Rica.
 
 Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwissenschaft. Sie können mehr von meinen Fähigkeiten auf [coderanks.io](https://profile.codersrank.io/user/erickof) oder [Linkedin](https://www.linkedin.com/in/erickobregonf/) sehen.
@@ -118,6 +123,7 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
 <details>
   <summary>:zap: GitHub Statistiken</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=ErickOF&&show_icons=true&theme=algolia&bg_color=DEG,000000,151515,101015&icon_color=155085&title_color=155099&locale=de&count_private=true">
+</details>
 </details>
 
 ## **Technology**
