@@ -104,7 +104,7 @@ Je suis interessé par les Systèmes Embarques, l'Apprentissage Automatique et l
     <summary>:zap: Statistiques GitHub</summary>
     <img src="https://github-readme-stats.vercel.app/api?username=ErickOF&&show_icons=true&theme=algolia&bg_color=DEG,000000,151515,101015&icon_color=155085&title_color=155099&locale=fr&count_private=true">
   </details>
-<details>
+</details>
 
 
 ## **Deutsche :de:**
@@ -119,11 +119,10 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
 * Ich versuche, meine eigenen Blogs in [Medium](https://erickof.medium.com/) und [DEV](https://dev.to/erickof) über Computer Engineering zu schreiben, und vielleicht künstliche Intelligenz in der Zukunft, aber es gibt viel zu tun...
 * Meine Muttersprache ist Spanisch, aber ich lerne Englisch und Französisch (Deutsch ... Deutsch steht bereit oder etwas ähnliches 😂).
 
-
-<details>
-  <summary>:zap: GitHub Statistiken</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=ErickOF&&show_icons=true&theme=algolia&bg_color=DEG,000000,151515,101015&icon_color=155085&title_color=155099&locale=de&count_private=true">
-</details>
+  <details>
+    <summary>:zap: GitHub Statistiken</summary>
+    <img src="https://github-readme-stats.vercel.app/api?username=ErickOF&&show_icons=true&theme=algolia&bg_color=DEG,000000,151515,101015&icon_color=155085&title_color=155099&locale=de&count_private=true">
+  </details>
 </details>
 
 ## **Technology**
@@ -140,22 +139,6 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
 ![Qt](https://img.shields.io/badge/-Qt-black?style=flat-square&logo=Qt)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=Postman)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=Latex)
-
-
-## **Learning**
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras)
-![Scikitlearn](https://img.shields.io/badge/-scikitlearn-black?style=flat-square&logo=scikit%2dlearn)
-![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=CMake)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS)
-![NextJS](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js)
-
-
-## **List to Learn**
-![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust)
-![Perl](https://img.shields.io/badge/-Perl-39457E?style=flat-square&logo=Perl)
-![Blender](https://img.shields.io/badge/-Blender-black?style=flat-square&logo=Blender)
-![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=Unity)
 
 <br>
 
@@ -339,7 +322,24 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
 
 <br>
 
-## **Skills**
+## **Learning**
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras)
+![Scikitlearn](https://img.shields.io/badge/-scikitlearn-black?style=flat-square&logo=scikit%2dlearn)
+![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=CMake)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS)
+![NextJS](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js)
+
+
+## **List to Learn**
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust)
+![Perl](https://img.shields.io/badge/-Perl-39457E?style=flat-square&logo=Perl)
+![Blender](https://img.shields.io/badge/-Blender-black?style=flat-square&logo=Blender)
+![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=Unity)
+
+<br>
+
+## **Stats**
 
 More stats [here](https://profile-summary-for-github.com/user/ErickOF).
 
