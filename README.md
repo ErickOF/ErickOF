@@ -10,6 +10,8 @@
   <img src="https://komarev.com/ghpvc/?username=ErickOF&label=Profile%20views&color=0e75b6&style=flat%22" alt="xtenzq"/>
 </p>
 
+<!--![counter](https://hit.yhype.me/github/profile?user_id=22231306)-->
+
 <a href="https://erickof.medium.com/">
   <img align="left" alt="Erick's Medium" width="22px" src="https://cdn.worldvectorlogo.com/logos/medium-1.svg" />
 </a>
