@@ -172,13 +172,16 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
 ![NextJS](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby)
-![Perl](https://img.shields.io/badge/-Perl-39457E?style=flat-square&logo=Perl)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=Kotlin)
 
 
 ## **List to Learn**
 ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust)
 ![Blender](https://img.shields.io/badge/-Blender-black?style=flat-square&logo=Blender)
 ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=Unity)
+![Perl](https://img.shields.io/badge/-Perl-39457E?style=flat-square&logo=Perl)
+![Dart](https://img.shields.io/badge/-Dart-0075BA?style=flat-square&logo=Dart)
+
 
 <br>
 
