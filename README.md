@@ -129,6 +129,25 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
 
 ## **Technology**
 
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy)
+![Pytorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=PyTorch)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
+![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebooks-black?style=flat-square&logo=Jupyter)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Java](https://img.shields.io/badge/-java-brown?style=flat-square&logo=java)
+![Octave](https://img.shields.io/badge/-Octave-black?style=flat-square&logo=Octave)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Angular](https://img.shields.io/badge/-Angular-E23237?style=flat-square&logo=Angular)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=Ubuntu)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual-Studio-Code)
@@ -137,190 +156,10 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
 ![GitKraken](https://img.shields.io/badge/-GitKraken-181717?style=flat-square&logo=GitKraken)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino)
-![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebooks-black?style=flat-square&logo=Jupyter)
 ![Qt](https://img.shields.io/badge/-Qt-black?style=flat-square&logo=Qt)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=Postman)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=Latex)
-
-<br>
-
-<table align="center" style="width:100%">
-<thead style="width:100%">
-  <tr style="width:100%">
-    <th>Name</th>
-    <th>Description</th>
-    <th>Image</th>
-    <th>Level</th>
-  </tr>
-</thead>
-<tbody align="center" style="width:100%">
-  <tr style="width:100%">
-    <td>Python</td>
-    <td>Programming Language</td>
-    <td>
-      <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python Logo" width="80">
-    </td>
-    <td>Advanced</td>
-  </tr>
-  <tr style="width:100%">
-    <td>C/C++</td>
-    <td>Programming Language</td>
-    <td>
-      <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c" alt="C Logo" width="40">
-      <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B" alt="C++ Logo" width="60">
-    </td>
-    <td>Intermediate-Advanced</td>
-  </tr>
-  <tr style="width:100%">
-    <td>JavaScript</td>
-    <td>Programming Language</td>
-    <td>
-      <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript Logo" width="90">
-    </td>
-    <td>Intermediate</td>
-  </tr>
-  <tr style="width:100%">
-    <td>TypeScript</td>
-    <td>Programming Language</td>
-    <td>
-      <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" alt="TypeScript Logo" width="90">
-    </td>
-    <td>Intermediate</td>
-  </tr>
-  <tr style="width:100%">
-    <td>Java</td>
-    <td>Programming Language</td>
-    <td>
-      <img src="https://img.shields.io/badge/-java-brown?style=flat-square&logo=java" alt="Java Logo" width="70">
-    </td>
-    <td>Beginner-Intermediate</td>
-  </tr>
-  <tr style="width:100%">
-    <td>Octave</td>
-    <td>Programming Language</td>
-    <td>
-      <img src="https://img.shields.io/badge/-Octave-black?style=flat-square&logo=Octave" alt="Octave Logo" width="75">
-    </td>
-    <td>Beginner</td>
-  </tr>
-  <tr style="width:100%">
-    <td>Go</td>
-    <td>Programming Language</td>
-    <td>
-      <img src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go" alt="Go Logo" width="75">
-    </td>
-    <td>Learning-Beginner</td>
-  </tr>
-  <tr style="width:100%">
-    <td>Ruby</td>
-    <td>Programming Language</td>
-    <td>
-      <img src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby" alt="Ruby Logo" width="75">
-    </td>
-    <td>Learning</td>
-  </tr>
-  <tr style="width:100%">
-    <td>C#</td>
-    <td>Programming Language</td>
-    <td>
-      <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C%20Sharp" alt="C# Logo" width="75">
-    </td>
-    <td>Learning</td>
-  </tr>
-  <tr style="width:100%">
-    <td>HTML</td>
-    <td>Markup Language</td>
-    <td>
-      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML Logo" width="75">
-    </td>
-    <td>Intermediate</td>
-  </tr>
-  <tr style="width:100%">
-    <td>CSS</td>
-    <td>Style Sheet Language</td>
-    <td>
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3 Logo" width="75">
-    </td>
-    <td>Beginner</td>
-  </tr>
-  <tr style="width:100%">
-    <td>SASS</td>
-    <td>CSS Extension Language</td>
-    <td>
-      <img src="https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass" alt="SASS Logo" width="75">
-    </td>
-    <td>Beginner</td>
-  </tr>
-  <tr style="width:100%">
-    <td>Bootstrap</td>
-    <td>Front-end Framework</td>
-    <td>
-      <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" alt="Bootstrap Logo" width="75">
-    </td>
-    <td>Intermediate</td>
-  </tr>
-  <tr style="width:100%">
-    <td>Angular</td>
-    <td>Web Framework</td>
-    <td>
-      <img src="https://img.shields.io/badge/-Angular-E23237?style=flat-square&logo=Angular" alt="Angular Logo" width="75">
-    </td>
-    <td>Intermediate</td>
-  </tr>
-  <tr style="width:100%">
-    <td>MySQL</td>
-    <td>Relational Database</td>
-    <td>
-      <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" alt="MySQL Logo" width="75">
-    </td>
-    <td>Intermediate</td>
-  </tr>
-  <tr style="width:100%">
-    <td>MongoDB</td>
-    <td>Document-Oriented Database</td>
-    <td>
-      <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" alt="MongoDB Logo" width="75">
-    </td>
-    <td>Beginner-Intermediate</td>
-  </tr>
-  <tr style="width:100%">
-    <td>NumPy</td>
-    <td>Library for Python</td>
-    <td>
-      <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy" alt="NumPy Logo" width="75">
-    </td>
-    <td>Intermediate</td>
-  </tr>
-  <tr style="width:100%">
-    <td>PyTorch</td>
-    <td>ML Library for Python</td>
-    <td>
-      <img src="https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=PyTorch" alt="PyTorch Logo" width="75">
-    </td>
-    <td>Beginner-Intermediate</td>
-  </tr>
-  <tr style="width:100%">
-    <td>Pandas</td>
-    <td>Data Manipulation and Analysis Library for Python</td>
-    <td>
-      <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas" alt="Pandas Logo" width="75">
-    </td>
-    <td>Beginner-Intermediate</td>
-  </tr>
-  <tr style="width:100%">
-    <td>Flask</td>
-    <td>Micro Web Framework for Python</td>
-    <td>
-      <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask" alt="Flask Logo" width="75">
-    </td>
-    <td>Intermediate</td>
-  </tr>
-</tbody>
-</table>
-
-<br>
-
-* **Note:** Advanced level does not mean that I know everything about the technology but that I can manage well using it.
+![NeoVim](https://img.shields.io/badge/-NeoVim-008080?style=flat-square&logo=Neovim)
 
 <br>
 
@@ -331,11 +170,13 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=CMake)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS)
 ![NextJS](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby)
+![Perl](https://img.shields.io/badge/-Perl-39457E?style=flat-square&logo=Perl)
 
 
 ## **List to Learn**
 ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust)
-![Perl](https://img.shields.io/badge/-Perl-39457E?style=flat-square&logo=Perl)
 ![Blender](https://img.shields.io/badge/-Blender-black?style=flat-square&logo=Blender)
 ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=Unity)
 
