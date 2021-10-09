@@ -37,7 +37,7 @@
   <img align="left" alt="Erick's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/myanimelist.svg" />
 </a>
 <a href="https://t.me/ErickOF">
-  <img align="left" alt="Erick's Telegram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111646.svg" />
+  <img align="left" alt="Erick's Telegram" width="22px" src="https://img.icons8.com/color/452/telegram-app--v1.png" />
 </a>
 <a href="https://www.chess.com/member/erickobregonfonseca">
   <img align="left" alt="Erick's Chess.com" width="22px" src="https://www.chess.com/bundles/web/images/brand/chesscom_pawn.8c9d0cf5.png" />
