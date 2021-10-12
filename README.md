@@ -30,7 +30,7 @@
 <a href="https://open.spotify.com/user/erickof18/">
   <img align="left" alt="Erick's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-<a href="https://www.reddit.com/user/geekyabhi/">
+<a href="https://www.reddit.com/user/e-of">
   <img align="left" alt="Erick's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
 <a href="https://myanimelist.net/profile/ErickOF/">
