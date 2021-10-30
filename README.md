@@ -131,7 +131,6 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy)
-![Pytorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=PyTorch)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
 ![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebooks-black?style=flat-square&logo=Jupyter)
@@ -167,6 +166,7 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras)
 ![Scikitlearn](https://img.shields.io/badge/-scikitlearn-black?style=flat-square&logo=scikit%2dlearn)
+![Pytorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=PyTorch)
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=CMake)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS)
 ![NextJS](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js)
@@ -179,7 +179,6 @@ Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwi
 ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust)
 ![Blender](https://img.shields.io/badge/-Blender-black?style=flat-square&logo=Blender)
 ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=Unity)
-![Perl](https://img.shields.io/badge/-Perl-39457E?style=flat-square&logo=Perl)
 ![Dart](https://img.shields.io/badge/-Dart-0075BA?style=flat-square&logo=Dart)
 
 
