@@ -34,7 +34,7 @@
   <img align="left" alt="Erick's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
 <a href="https://myanimelist.net/profile/ErickOF/">
-  <img align="left" alt="Erick's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/myanimelist.svg" />
+  <img align="left" alt="Erick's Reddit" width="22px" src="https://raw.githubusercontent.com/ErickOF/ErickOF/master/src/icons/myanimelist.svg" />
 </a>
 <a href="https://t.me/ErickOF">
   <img align="left" alt="Erick's Telegram" width="22px" src="https://img.icons8.com/color/452/telegram-app--v1.png" />
