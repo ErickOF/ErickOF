@@ -27,12 +27,14 @@
 <a href="https://gitlab.com/ErickOF">
   <img align="left" alt="Erick's GitLab" width="22px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />
 </a>
+<!--
 <a href="https://open.spotify.com/user/erickof18/">
   <img align="left" alt="Erick's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 <a href="https://www.reddit.com/user/e-of">
   <img align="left" alt="Erick's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
+-->
 <a href="https://myanimelist.net/profile/ErickOF/">
   <img align="left" alt="Erick's Reddit" width="22px" src="https://raw.githubusercontent.com/ErickOF/ErickOF/master/src/icons/myanimelist.svg" />
 </a>
