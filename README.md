@@ -19,10 +19,10 @@
   <img align="left" alt="Erick's DevTo" width="22px" src="https://cdn.worldvectorlogo.com/logos/devto.svg" />
 </a>
 <a href="https://twitter.com/ErickOF23">
-  <img align="left" alt="ErickOF23 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="ErickOF23 | Twitter" width="22px" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-twitter-2.png" />
 </a>
 <a href="https://www.linkedin.com/in/erickobregonf/">
-  <img align="left" alt="Erick's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Erick's LinkedIN" width="22px" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-linkedin-2.png" />
 </a>
 <a href="https://gitlab.com/ErickOF">
   <img align="left" alt="Erick's GitLab" width="22px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />
