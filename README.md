@@ -27,23 +27,6 @@
 <a href="https://gitlab.com/ErickOF">
   <img align="left" alt="Erick's GitLab" width="22px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />
 </a>
-<!--
-<a href="https://open.spotify.com/user/erickof18/">
-  <img align="left" alt="Erick's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-<a href="https://www.reddit.com/user/e-of">
-  <img align="left" alt="Erick's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
-</a>
--->
-<a href="https://myanimelist.net/profile/ErickOF/">
-  <img align="left" alt="Erick's Reddit" width="22px" src="https://raw.githubusercontent.com/ErickOF/ErickOF/master/src/icons/myanimelist.svg" />
-</a>
-<a href="https://t.me/ErickOF">
-  <img align="left" alt="Erick's Telegram" width="22px" src="https://img.icons8.com/color/452/telegram-app--v1.png" />
-</a>
-<a href="https://www.chess.com/member/erickobregonfonseca">
-  <img align="left" alt="Erick's Chess.com" width="22px" src="https://www.chess.com/bundles/web/images/brand/chesscom_pawn.8c9d0cf5.png" />
-</a>
 <a href="https://lichess.org/@/ErickOF">
   <img align="left" alt="Erick's Chess.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lichess_Logo.svg/45px-Lichess_Logo.svg.png" />
 </a>
