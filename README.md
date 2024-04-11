@@ -41,7 +41,7 @@
 
 ## **English :us: :uk:**
 
-Hi! My name is Erick, I am a Computer Engineer and a Master's student in Electronics with an emphasis in Microelectronics from Costa Rica 🇨🇷.
+Hi! My name is Erick, I am a Computer Engineer and a Master's in Electronics student with an emphasis in Microelectronics/VLSI from Costa Rica 🇨🇷.
 
 I'm interested in Embedded Systems, Machine Learning and Data Science stuff. You can see more of my skills in [coderanks.io](https://profile.codersrank.io/user/erickof) or [Linkedin](https://www.linkedin.com/in/erickobregonf/).
 
@@ -59,7 +59,7 @@ I'm interested in Embedded Systems, Machine Learning and Data Science stuff. You
 ## **Español :costa_rica:**
 <details>
 <summary>:costa_rica: Leer</summary>
-¡Pura Vida! Mi nombre es Erick, soy Ingeniero en Computadores y estudiante de maestría en Electrónica con énfasis en Microelectrónica, de Costa Rica :costa_rica:.
+¡Pura Vida! Mi nombre es Erick, soy Ingeniero en Computadores y estudiante de maestría en Electrónica con énfasis en Microelectrónica/VLSI, de Costa Rica :costa_rica:.
 
 Me interesa el mundo de los Sistemas Embebidos, el Aprendizaje Automático y la Ciencia de los Datos. Puede ver un poco más acerca de mis conocimientos en [coderanks.io](https://profile.codersrank.io/user/erickof) o en [Linkedin](https://www.linkedin.com/in/erickobregonf/).
 
@@ -78,7 +78,7 @@ Me interesa el mundo de los Sistemas Embebidos, el Aprendizaje Automático y la 
 ## **Français :fr:**
 <details>
 <summary>:fr: Lire</summary>
-Coucou ! Je m'appelle Erick, je suis Ingénieur Informatique et étudiant en master d'Électronique avec une spécialisation en Microélectronique, du Costa Rica.
+Coucou ! Je m'appelle Erick, je suis Ingénieur Informatique et étudiant en master d'Électronique avec une spécialisation en Microélectronique/VLSI, du Costa Rica.
 
 Je suis interessé par les Systèmes Embarques, l'Apprentissage Automatique et la Science des Données. Vous pouvez voir plus de mes compétences sur [coderanks.io](https://profile.codersrank.io/user/erickof) ou [Linkedin](https://www.linkedin.com/in/erickobregonf/).
 
@@ -97,7 +97,7 @@ Je suis interessé par les Systèmes Embarques, l'Apprentissage Automatique et l
 ## **Deutsche :de:**
 <details>
 <summary>:de: Lesen</summary>
-Hallo! Mein Name ist Erick, ich bin Computeringenieur und Masterstudent in Elektronik mit Schwerpunkt Mikroelektronik, auf Costa Rica.
+Hallo! Mein Name ist Erick, ich bin Computeringenieur und Masterstudent in Elektronik mit Schwerpunkt Mikroelektronik/VLSI, auf Costa Rica.
 
 Ich interessiere mich für eingebettete Systeme, maschinelles Lernen und Datenwissenschaft. Sie können mehr von meinen Fähigkeiten auf [coderanks.io](https://profile.codersrank.io/user/erickof) oder [Linkedin](https://www.linkedin.com/in/erickobregonf/) sehen.
 
