@@ -3,7 +3,7 @@
 <a href="https://github.com/kittinan/spotify-github-profile" target="blank">
   <img align="right"
     src="https://spotify-github-profile.vercel.app/api/view.svg?uid=erickof18&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"
-    alt="spotify" />
+    alt="Spotify" />
 </a>
 
 <p align="left">
@@ -180,17 +180,10 @@ More stats [here](https://profile-summary-for-github.com/user/ErickOF).
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErickOF&" alt="ErickOF"/>
 </div>
 
-<div align="center">
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erickof&skills=Assembly,C,C%2B%2B,Go,Jupyter%20Notebook,Makefile,Matlab,Perl,Python,Ruby,Shell" border=0 width=500 />
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erickof&skills=CSS,HTML,JavaScript,JSON,PHP,TypeScript,SCSS" border=0 width=500 />
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erickof&skills=Batchfile,C%23,CoffeScript,Java,Kivy,Kotlin" border=0 width=500  />
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erickof" border=0 width=500 />
-</div>
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-## **📕 Latest Blog Posts**
+## **Latest Blog Posts**
 ### **Medium**
 <!-- MEDIUM:START -->
 - [Yocto Project Tutorial: Baking a Minimal Linux Image from Scratch](https://erickof.medium.com/yocto-project-tutorial-baking-a-minimal-linux-image-from-scratch-625b3e65f768?source=rss-1615d8d84c36------2)
