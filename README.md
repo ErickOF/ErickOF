@@ -147,6 +147,10 @@ Sie können sich unter mit mir verbinden
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" title="NeoVim" width="4%"/>
   <img src="https://www.svgrepo.com/show/373819/makefile.svg" title="GNU Makefile" width="5%"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png?20180723054350" title="Bash" width="5%"/>
+  <img src="https://media.imgcdn.org/repo/2023/03/intel-quartus-prime-pro-edition/intel-quartus-prime-pro-edition-logo.png" title="Quartus Prime Lite" width="5%"/>
+  <img src="https://user-images.githubusercontent.com/56430787/105164182-1afa8a80-5b15-11eb-8ac3-7ae5c9f0e15e.png" title="Vivado" width="5%"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Yocto_Project_logo.svg/1280px-Yocto_Project_logo.svg.png" title="Yocto Project" width="10%"/>
+  
 </div>
 
 
@@ -168,15 +172,19 @@ Sie können sich unter mit mir verbinden
   <img src="https://www.svgrepo.com/show/353980/kotlin.svg" title="Kotlin" width="5%"/>
   <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_977c0721699223be28566021a78599e9/autodesk-eagle.png" title="AutoDesk Eagle" width="10%"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png" title="Simulink" width="5%"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Icarus_Verilog_logo2.png" title="icarus verilog" width="5%"/>
 </div>
 
 
 ## **List to Learn**
 <div>
+  <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" title="Scala" width="5%"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Chisel%28ProgrammingLanguage%29Logo.svg/1200px-Chisel%28ProgrammingLanguage%29Logo.svg.png" title="Chisel" width="25%"/>
   <img src="https://www.svgrepo.com/show/353488/blender.svg" title="Blender" width="5%"/>
   <img src="https://www.svgrepo.com/show/394534/unity.svg" title="Unity 3D" width="5%"/>
   <img src="https://www.svgrepo.com/show/353631/dart.svg" title="Dart" width="5%"/>
   <img src="https://www.svgrepo.com/show/373509/cmake.svg" title="CMake" width="5%"/>
+  <img src="https://seeklogo.com/images/L/labview-logo-263E42F647-seeklogo.com.png" title="LabVIEW" width="5%"/>
 </div>
 
 
