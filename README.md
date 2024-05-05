@@ -115,6 +115,8 @@ Sie können sich unter mit mir verbinden
 <div>
   <img src="https://www.svgrepo.com/show/373793/light-systemverilog.svg" title="SystemVerilog" width="5%"/>
   <img src="https://www.svgrepo.com/show/374163/verilog.svg" title="Verilog" width="5%"/>
+  <img src="https://learnuvmverification.com/wp-content/uploads/2015/09/UVM_logo.jpg" title="UVM" width="6%"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tcl.svg/1200px-Tcl.svg.png" title="TCL" width="2.5%"/>
   <img src="https://www.svgrepo.com/show/452091/python.svg" title="Python" width="5%"/>
   <img src="https://www.svgrepo.com/show/353949/jupyter.svg" title="Jupyter Notebooks" width="5%"/>
   <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" title="C" width="5%"/>
@@ -150,7 +152,6 @@ Sie können sich unter mit mir verbinden
   <img src="https://media.imgcdn.org/repo/2023/03/intel-quartus-prime-pro-edition/intel-quartus-prime-pro-edition-logo.png" title="Quartus Prime Lite" width="5%"/>
   <img src="https://user-images.githubusercontent.com/56430787/105164182-1afa8a80-5b15-11eb-8ac3-7ae5c9f0e15e.png" title="Vivado" width="5%"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Yocto_Project_logo.svg/1280px-Yocto_Project_logo.svg.png" title="Yocto Project" width="10%"/>
-  
 </div>
 
 
