@@ -174,6 +174,7 @@ Sie können sich unter mit mir verbinden
   <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_977c0721699223be28566021a78599e9/autodesk-eagle.png" title="AutoDesk Eagle" width="10%"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png" title="Simulink" width="5%"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Icarus_Verilog_logo2.png" title="icarus verilog" width="5%"/>
+  <img src="https://systemc.org/images/systemc.png" title="SystemC" width="12%"/>
 </div>
 
 
