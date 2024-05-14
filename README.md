@@ -184,7 +184,6 @@ Sie können sich unter mit mir verbinden
   <img src="https://www.svgrepo.com/show/353488/blender.svg" title="Blender" width="5%"/>
   <img src="https://www.svgrepo.com/show/394534/unity.svg" title="Unity 3D" width="5%"/>
   <img src="https://www.svgrepo.com/show/353631/dart.svg" title="Dart" width="5%"/>
-  <img src="https://www.svgrepo.com/show/373509/cmake.svg" title="CMake" width="5%"/>
   <img src="https://seeklogo.com/images/L/labview-logo-263E42F647-seeklogo.com.png" title="LabVIEW" width="5%"/>
 </div>
 
