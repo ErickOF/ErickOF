@@ -152,8 +152,8 @@ Sie können sich unter mit mir verbinden
   <img src="https://media.imgcdn.org/repo/2023/03/intel-quartus-prime-pro-edition/intel-quartus-prime-pro-edition-logo.png" title="Quartus Prime Lite" width="5%"/>
   <img src="https://user-images.githubusercontent.com/56430787/105164182-1afa8a80-5b15-11eb-8ac3-7ae5c9f0e15e.png" title="Vivado" width="5%"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Yocto_Project_logo.svg/1280px-Yocto_Project_logo.svg.png" title="Yocto Project" width="10%"/>
+  <img src="https://systemc.org/images/systemc.png" title="SystemC" width="12%"/>
 </div>
-
 
 <br>
 
@@ -174,7 +174,6 @@ Sie können sich unter mit mir verbinden
   <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_977c0721699223be28566021a78599e9/autodesk-eagle.png" title="AutoDesk Eagle" width="10%"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png" title="Simulink" width="5%"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Icarus_Verilog_logo2.png" title="icarus verilog" width="5%"/>
-  <img src="https://systemc.org/images/systemc.png" title="SystemC" width="12%"/>
 </div>
 
 
