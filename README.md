@@ -79,7 +79,7 @@ Me interesa el mundo del diseño/verificación de SoC y el Aprendizaje Automáti
 <summary>:fr: Lire</summary>
 Coucou ! Je m'appelle Erick, je suis un Ingénieur Informatique et étudiant en master d'Électronique (spécialisation en Microélectronique/VLSI) du Costa Rica.
 
-Je suis interessé par le design/vérification des Soc et l'Apprentissage Automatique. Vous pouvez me contacter sur [Linkedin](https://www.linkedin.com/in/erickobregonf/).
+Je suis interessé par le design/vérification des SoC et l'Apprentissage Automatique. Vous pouvez me contacter sur [Linkedin](https://www.linkedin.com/in/erickobregonf/).
 
 ### **Sur moi:**
 * J'aime apprendre n'importe quel sujet (la physique, les mathématiques, l'astronomie, la biologie, le culture, l'histoire, les langues, les sports, l'art, le musique, entre autres) 😊
