@@ -198,7 +198,7 @@ More stats [here](https://profile-summary-for-github.com/user/ErickOF).
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickOF&hide=C%23,BitBake,Shell&langs_count=10" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@ErickOF" />
   <img src="https://github-profile-trophy.vercel.app/?username=ErickOF&column=7&theme=onedark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErickOF&" alt="ErickOF"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErickOF" alt="ErickOF"/>
 </div>
 
 <!--START_SECTION:waka-->
