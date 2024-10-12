@@ -43,7 +43,7 @@
 
 Hi there! My name is Erick, I am a Computer Engineer and a Master's in Electronics student (Microelectronics/VLSI emphasis) from Costa Rica 🇨🇷.
 
-I'm interested in SoC Design/Verification and Machine Learning. You can connect with me on [Linkedin](https://www.linkedin.com/in/erickobregonf/).
+I'm interested in RTL Design/Verification and Machine Learning. You can connect with me on [Linkedin](https://www.linkedin.com/in/erickobregonf/).
 
 ### **About myself:**
 * I love to learn about anything (physics, maths, astronomy, biology, culture, history, languages, sports, art, music, and so on) 😊
@@ -61,7 +61,7 @@ I'm interested in SoC Design/Verification and Machine Learning. You can connect 
 <summary>:costa_rica: Leer</summary>
 ¡Pura Vida! Mi nombre es Erick, soy Ingeniero en Computadores y estudiante de maestría en Electrónica (énfasis en Microelectrónica/VLSI) de Costa Rica :costa_rica:.
 
-Me interesa el mundo del diseño/verificación de SoC y el Aprendizaje Automático. Puede conectar conmigo en [Linkedin](https://www.linkedin.com/in/erickobregonf/).
+Me interesa el mundo del diseño/verificación de RTL y el Aprendizaje Automático. Puede conectar conmigo en [Linkedin](https://www.linkedin.com/in/erickobregonf/).
 
 ### **Sobre mí:**
 * Me gusta aprender sobre cualquier tema (física, matemáticas, astronomía, biología, cultura, historia, idiomas, deportes, arte, música, entre otros) 😊
@@ -79,7 +79,7 @@ Me interesa el mundo del diseño/verificación de SoC y el Aprendizaje Automáti
 <summary>:fr: Lire</summary>
 Coucou ! Je m'appelle Erick, je suis un Ingénieur Informatique et étudiant en master d'Électronique (spécialisation en Microélectronique/VLSI) du Costa Rica.
 
-Je suis interessé par le design/vérification des SoC et l'Apprentissage Automatique. Vous pouvez me contacter sur [Linkedin](https://www.linkedin.com/in/erickobregonf/).
+Je suis interessé par le design/vérification du RTL et l'Apprentissage Automatique. Vous pouvez me contacter sur [Linkedin](https://www.linkedin.com/in/erickobregonf/).
 
 ### **Sur moi:**
 * J'aime apprendre n'importe quel sujet (la physique, les mathématiques, l'astronomie, la biologie, le culture, l'histoire, les langues, les sports, l'art, le musique, entre autres) 😊
@@ -97,7 +97,7 @@ Je suis interessé par le design/vérification des SoC et l'Apprentissage Automa
 <summary>:de: Lesen</summary>
 Hallo! Mein Name ist Erick, ich bin Computeringenieur und Masterstudent in Elektronik (Mikroelektronik/VLSI Schwerpunkt) auf Costa Rica.
 
-Ich interessiere mich für SoC-Design/Verifizierung und Maschinelles Lernen. Sie können sich unter [Linkedin](https://www.linkedin.com/in/erickobregonf/) mit mir verbinden.
+Ich interessiere mich für RTL-Design/Verifizierung und Maschinelles Lernen. Sie können sich unter [Linkedin](https://www.linkedin.com/in/erickobregonf/) mit mir verbinden.
 
 Sie können sich unter mit mir verbinden
 
