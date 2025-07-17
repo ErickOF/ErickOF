@@ -207,6 +207,7 @@ More stats [here](https://profile-summary-for-github.com/user/ErickOF).
 ## **Latest Blog Posts**
 ### **Medium**
 <!-- MEDIUM:START -->
+- [Getting Started with RISC-V: PlatformIO and the Sipeed Longan Nano](https://erickof.medium.com/getting-started-with-risc-v-platformio-and-the-sipeed-longan-nano-1ebc3dd606bb?source=rss-1615d8d84c36------2)
 - [Yocto Project Tutorial: Baking a Minimal Linux Image from Scratch](https://erickof.medium.com/yocto-project-tutorial-baking-a-minimal-linux-image-from-scratch-625b3e65f768?source=rss-1615d8d84c36------2)
 - [Tutoriel Yocto Project: Baking une image Linux minimale à partir de zéro](https://erickof.medium.com/tutoriel-yocto-project-baking-une-image-linux-minimale-%C3%A0-partir-de-z%C3%A9ro-c43955d670b?source=rss-1615d8d84c36------2)
 <!-- MEDIUM:END -->
