@@ -207,11 +207,11 @@ More stats [here](https://profile-summary-for-github.com/user/ErickOF).
 ## **Latest Blog Posts**
 ### **Medium**
 <!-- MEDIUM:START -->
+- [Modern Linux Drivers 2: Communicating with User Space &lpar;Char Device&rpar; using C++ Classes](https://erickof.medium.com/modern-linux-drivers-2-communicating-with-user-space-char-device-using-c-classes-1f1629a24023?source=rss-1615d8d84c36------2)
 - [C++23 Series: 1. Enter… “std::println”](https://erickof.medium.com/c-23-series-1-enter-std-println-6947917c1ba3?source=rss-1615d8d84c36------2)
 - [C++23 Series: 0. Is C++ still worth it in 2026?](https://erickof.medium.com/c-23-series-0-is-c-still-worth-it-in-2026-9aa08ed69b38?source=rss-1615d8d84c36------2)
 - [Modern Linux Drivers 1: From Scratch Using C](https://erickof.medium.com/modern-linux-drivers-from-scratch-using-c-ed8ea4183496?source=rss-1615d8d84c36------2)
 - [Yocto Project Tutorial 1: Baking a Minimal Linux Image from Scratch &lpar;2026 with Whinlatter&rpar;](https://erickof.medium.com/yocto-project-tutorial-1-baking-a-minimal-linux-image-from-scratch-2026-with-whinlatter-0f691a9fc091?source=rss-1615d8d84c36------2)
-- [Getting Started with RISC-V: PlatformIO and the Sipeed Longan Nano](https://erickof.medium.com/getting-started-with-risc-v-platformio-and-the-sipeed-longan-nano-1ebc3dd606bb?source=rss-1615d8d84c36------2)
 <!-- MEDIUM:END -->
 
 ### **DEV.TO**
